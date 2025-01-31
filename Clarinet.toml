@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/access-control.clar"
 depends_on = []
 
+[contracts.payment]
+path = "contracts/payment.clar"
+depends_on = []
+
 [contracts.storage]
 path = "contracts/storage.clar"
 depends_on = []
